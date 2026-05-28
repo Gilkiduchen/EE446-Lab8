@@ -1,0 +1,187 @@
+[I 2026-05-23 21:55:16.235 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-05-23 21:55:16.241 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-05-23 21:55:16.246 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-05-23 21:55:16.251 ServerApp] notebook | extension was successfully linked.
+[I 2026-05-23 21:55:19.229 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-05-23 21:55:19.436 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-05-23 21:55:19.437 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-05-23 21:55:19.438 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-05-23 21:55:19.469 LabApp] JupyterLab extension loaded from /mnt/e/EE446/lab3/tinyml-arduino/lib/python3.11/site-packages/jupyterlab
+[I 2026-05-23 21:55:19.469 LabApp] JupyterLab application directory is /mnt/e/EE446/lab3/tinyml-arduino/share/jupyter/lab
+[I 2026-05-23 21:55:19.471 LabApp] Extension Manager is 'pypi'.
+[I 2026-05-23 21:55:19.796 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-05-23 21:55:19.835 ServerApp] notebook | extension was successfully loaded.
+[I 2026-05-23 21:55:19.835 ServerApp] Serving notebooks from local directory: /mnt/e/EE446/lab8
+[I 2026-05-23 21:55:19.835 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-05-23 21:55:19.835 ServerApp] http://127.0.0.1:8892/lab?token=418fe7c2b1fc06b56377e7363cbdf15d1532e2e3ddb787e4
+[I 2026-05-23 21:55:19.836 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-05-23 21:55:19.845 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/adminstor/.local/share/jupyter/runtime/jpserver-362-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8892/lab?token=418fe7c2b1fc06b56377e7363cbdf15d1532e2e3ddb787e4
+[I 2026-05-23 21:55:20.581 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-05-23 21:55:49.124 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2026-05-23 21:55:49.303 ServerApp] 404 GET /api/contents/Lab-7-Data-Collection-Instruction.pdf?content=0&hash=0&1779598548838 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 2.65ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.304 ServerApp] 404 GET /api/contents/Lab-7-Data-Collection-Instruction.pdf?content=0&hash=0&1779598548838 (127.0.0.1): No such file or directory: Lab-7-Data-Collection-Instruction.pdf
+[W 2026-05-23 21:55:49.305 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.completed.ipynb?content=0&hash=0&1779598548838 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 3.90ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.305 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.completed.ipynb?content=0&hash=0&1779598548838 (127.0.0.1): No such file or directory: EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.completed.ipynb
+[W 2026-05-23 21:55:49.306 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training).ipynb?content=0&hash=0&1779598548838 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 4.94ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.306 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training).ipynb?content=0&hash=0&1779598548838 (127.0.0.1): No such file or directory: EE446_TinyML_Lab7_(Magic_Dataset_Training).ipynb
+[W 2026-05-23 21:55:49.308 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.ipynb?content=0&hash=0&1779598548838 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 1.53ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.308 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.ipynb?content=0&hash=0&1779598548838 (127.0.0.1): No such file or directory: EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.ipynb
+[W 2026-05-23 21:55:49.309 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training).ipynb?content=0&hash=0&1779598548838 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 2.62ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.309 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training).ipynb?content=0&hash=0&1779598548838 (127.0.0.1): No such file or directory: EE446_TinyML_Lab7_(Magic_Dataset_Training).ipynb
+[W 2026-05-23 21:55:49.311 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.ipynb?content=0&hash=0&1779598548838 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 1.03ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.311 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.ipynb?content=0&hash=0&1779598548838 (127.0.0.1): No such file or directory: EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.ipynb
+[W 2026-05-23 21:55:49.312 ServerApp] 404 GET /api/contents/Lab-7-Data-Collection-Instruction.pdf?content=0&hash=0&1779598548839 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 1.86ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.312 ServerApp] 404 GET /api/contents/Lab-7-Data-Collection-Instruction.pdf?content=0&hash=0&1779598548839 (127.0.0.1): No such file or directory: Lab-7-Data-Collection-Instruction.pdf
+[W 2026-05-23 21:55:49.312 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.completed.ipynb?content=0&hash=0&1779598548839 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 2.64ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:55:49.313 ServerApp] 404 GET /api/contents/EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.completed.ipynb?content=0&hash=0&1779598548839 (127.0.0.1): No such file or directory: EE446_TinyML_Lab7_(Magic_Dataset_Training)_skip_cleanup.completed.ipynb
+[W 2026-05-23 21:55:51.551 ServerApp] Notebook TinyML_Lab8_Part_II.ipynb is not trusted
+[I 2026-05-23 21:55:51.864 ServerApp] Kernel started: 46a408e1-d648-4c7e-9e4d-6fe7d15c0041
+[I 2026-05-23 21:55:55.156 ServerApp] Adapting from protocol version 5.3 (kernel 46a408e1-d648-4c7e-9e4d-6fe7d15c0041) to 5.4 (client).
+[I 2026-05-23 21:55:55.157 ServerApp] Connecting to kernel 46a408e1-d648-4c7e-9e4d-6fe7d15c0041.
+[W 2026-05-23 21:55:55.157 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-05-23 21:55:55.160 ServerApp] Adapting from protocol version 5.3 (kernel 46a408e1-d648-4c7e-9e4d-6fe7d15c0041) to 5.4 (client).
+[I 2026-05-23 21:55:55.161 ServerApp] Connecting to kernel 46a408e1-d648-4c7e-9e4d-6fe7d15c0041.
+[I 2026-05-23 21:55:55.164 ServerApp] Adapting from protocol version 5.3 (kernel 46a408e1-d648-4c7e-9e4d-6fe7d15c0041) to 5.4 (client).
+[I 2026-05-23 21:55:55.164 ServerApp] Connecting to kernel 46a408e1-d648-4c7e-9e4d-6fe7d15c0041.
+2026-05-23 21:56:46.515420: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-23 21:56:46.929703: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2026-05-23 21:56:46.930415: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2026-05-23 21:56:46.932212: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2026-05-23 21:56:47.126766: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-05-23 21:56:55.427220: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2026-05-23 21:57:50.546397: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.821226: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.821265: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.822990: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.823023: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.823040: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.932077: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.932124: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.932130: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1977] Could not identify NUMA node of platform GPU id 0, defaulting to 0.  Your kernel may not have been built with NUMA support.
+2026-05-23 21:57:50.932155: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:880] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2026-05-23 21:57:50.932170: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1886] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 21456 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 4090, pci bus id: 0000:01:00.0, compute capability: 8.9
+[I 2026-05-23 21:57:52.303 ServerApp] Saving file at /TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:57:52.304 ServerApp] Notebook TinyML_Lab8_Part_II.ipynb is not trusted
+2026-05-23 21:57:52.547075: I tensorflow/tsl/platform/default/subprocess.cc:304] Start cannot spawn child process: No such file or directory
+2026-05-23 21:57:53.048666: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7b4ecd904da0 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2026-05-23 21:57:53.048696: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): NVIDIA GeForce RTX 4090, Compute Capability 8.9
+2026-05-23 21:57:53.058994: I tensorflow/compiler/mlir/tensorflow/utils/dump_mlir_util.cc:269] disabling MLIR crash reproducer, set env var `MLIR_CRASH_REPRODUCER_DIRECTORY` to enable.
+2026-05-23 21:57:53.101808: I tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:442] Loaded cuDNN version 8700
+2026-05-23 21:57:53.218083: I ./tensorflow/compiler/jit/device_compiler.h:186] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+[W 2026-05-23 21:57:53.254 ServerApp] 404 GET /api/contents/tensorflow/compiler/jit/device_compiler.h?content=0&hash=0&1779598672378 (5b5053c662dd4d92a89425967988744e@127.0.0.1) 1.65ms referer=http://127.0.0.1:8892/lab/tree/TinyML_Lab8_Part_II.ipynb
+[W 2026-05-23 21:57:53.254 ServerApp] 404 GET /api/contents/tensorflow/compiler/jit/device_compiler.h?content=0&hash=0&1779598672378 (127.0.0.1): No such file or directory: tensorflow/compiler/jit/device_compiler.h
+[I 2026-05-23 21:59:51.495 ServerApp] Saving file at /TinyML_Lab8_Part_II.ipynb
+2026-05-23 22:00:07.524773: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:07.524802: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:07.524973: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpll4x9_yw
+2026-05-23 22:00:07.525226: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:07.525231: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpll4x9_yw
+2026-05-23 22:00:07.526749: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:382] MLIR V1 optimization pass is not enabled
+2026-05-23 22:00:07.526988: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:07.535687: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpll4x9_yw
+2026-05-23 22:00:07.538117: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 13143 microseconds.
+2026-05-23 22:00:07.781399: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:07.781433: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:07.781523: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpw9ctuc66
+2026-05-23 22:00:07.781883: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:07.781888: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpw9ctuc66
+2026-05-23 22:00:07.783079: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:07.797999: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpw9ctuc66
+2026-05-23 22:00:07.801984: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 20461 microseconds.
+2026-05-23 22:00:07.948105: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:07.948126: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:07.948299: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpbektm8hs
+2026-05-23 22:00:07.948556: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:07.948562: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpbektm8hs
+2026-05-23 22:00:07.949179: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:07.955576: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpbektm8hs
+2026-05-23 22:00:07.958287: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 9990 microseconds.
+2026-05-23 22:00:08.171398: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:08.171434: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:08.171532: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmp9_548cif
+2026-05-23 22:00:08.171971: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:08.171977: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmp9_548cif
+2026-05-23 22:00:08.173083: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:08.187836: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmp9_548cif
+2026-05-23 22:00:08.191846: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 20288 microseconds.
+2026-05-23 22:00:08.336732: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:08.336769: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:08.336863: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpvq1eo502
+2026-05-23 22:00:08.337144: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:08.337149: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpvq1eo502
+2026-05-23 22:00:08.337732: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:08.344487: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpvq1eo502
+2026-05-23 22:00:08.347122: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 10258 microseconds.
+2026-05-23 22:00:08.576339: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:08.576376: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:08.576472: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmphxmp1c4_
+2026-05-23 22:00:08.576890: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:08.576896: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmphxmp1c4_
+2026-05-23 22:00:08.577964: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:08.592944: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmphxmp1c4_
+2026-05-23 22:00:08.597026: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 20553 microseconds.
+2026-05-23 22:00:08.813959: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:08.813996: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:08.814091: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpt4h_f95e
+2026-05-23 22:00:08.814500: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:08.814504: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpt4h_f95e
+2026-05-23 22:00:08.815567: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:08.830745: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpt4h_f95e
+2026-05-23 22:00:08.834936: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 20845 microseconds.
+2026-05-23 22:00:50.411628: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:00:50.411665: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:00:50.411776: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpm1jmrl54
+2026-05-23 22:00:50.413209: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:00:50.413219: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpm1jmrl54
+2026-05-23 22:00:50.417966: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:00:50.457320: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpm1jmrl54
+2026-05-23 22:00:50.468542: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 56766 microseconds.
+fully_quantize: 0, inference_type: 6, input_inference_type: INT8, output_inference_type: INT8
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2026-05-23 22:01:01.355873: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:01:01.355904: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:01:01.355988: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpv1dil9bc
+2026-05-23 22:01:01.357150: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:01:01.357163: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpv1dil9bc
+2026-05-23 22:01:01.360411: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:01:01.396007: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpv1dil9bc
+2026-05-23 22:01:01.406405: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 50416 microseconds.
+fully_quantize: 0, inference_type: 6, input_inference_type: INT8, output_inference_type: INT8
+2026-05-23 22:01:13.434914: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:01:13.434946: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:01:13.435038: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmp78u8pjz7
+2026-05-23 22:01:13.436182: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:01:13.436198: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmp78u8pjz7
+2026-05-23 22:01:13.439688: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:01:13.477566: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmp78u8pjz7
+2026-05-23 22:01:13.488305: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 53266 microseconds.
+fully_quantize: 0, inference_type: 6, input_inference_type: INT8, output_inference_type: INT8
+2026-05-23 22:01:20.440109: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:378] Ignored output_format.
+2026-05-23 22:01:20.440138: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:381] Ignored drop_control_dependency.
+2026-05-23 22:01:20.440233: I tensorflow/cc/saved_model/reader.cc:83] Reading SavedModel from: /tmp/tmpnje_56wv
+2026-05-23 22:01:20.441762: I tensorflow/cc/saved_model/reader.cc:51] Reading meta graph with tags { serve }
+2026-05-23 22:01:20.441774: I tensorflow/cc/saved_model/reader.cc:146] Reading SavedModel debug info (if present) from: /tmp/tmpnje_56wv
+2026-05-23 22:01:20.444902: I tensorflow/cc/saved_model/loader.cc:233] Restoring SavedModel bundle.
+2026-05-23 22:01:20.470747: I tensorflow/cc/saved_model/loader.cc:217] Running initialization op on SavedModel bundle at path: /tmp/tmpnje_56wv
+2026-05-23 22:01:20.480194: I tensorflow/cc/saved_model/loader.cc:316] SavedModel load for tags { serve }; Status: success: OK. Took 39961 microseconds.
+fully_quantize: 0, inference_type: 6, input_inference_type: INT8, output_inference_type: INT8
+[I 2026-05-23 22:01:52.287 ServerApp] Saving file at /TinyML_Lab8_Part_II.ipynb
+[I 2026-05-23 22:03:51.550 ServerApp] Saving file at /TinyML_Lab8_Part_II.ipynb
+[I 2026-05-23 22:46:58.201 ServerApp] Starting buffering for 46a408e1-d648-4c7e-9e4d-6fe7d15c0041:6cb2bb97-b4d3-41ad-8c06-9b78037e084b
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
